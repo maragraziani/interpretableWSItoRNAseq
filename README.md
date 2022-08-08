@@ -39,7 +39,9 @@
   <h3 align="center">Attention-based Interpretable Regression of Gene Expression in Histology</h3>
 
   <p align="center">
-    project_description
+   Presented at the iMIMIC Workshop at MICCAI 2022
+
+We show that interpretability can reveal connections between the microscopic appear- ance of cancer tissue and its gene expression profiling. While exhaustive profiling of all genes from the histology images is still challenging, we estimate the expression values of a well-known subset of genes that is indicative of cancer molecular subtype, survival, and treatment response in colorectal cancer. Our approach successfully identifies meaningful information from the image slides, highlighting hotspots of high gene expression.
     <br />
     <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq"><strong>Explore the docs »</strong></a>
     <br />
