@@ -111,6 +111,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Mara Graziani - [@mormontre](https://twitter.com/mormontre) - mgr@zurich.ibm.com // mara.graziani@hevs.ch
+
+
 Project Link: [https://github.com/maragraziani/interpretable-WSItoRNAseq](https://github.com/maragraziani/interpretable-WSItoRNAseq)
 
 
