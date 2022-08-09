@@ -114,7 +114,6 @@ Note that in our experiments:
    ```sh
    python Patch_Extractor_Dense_Grid.py -m 10 -w 1.25 -p 10 -r True -s 224 -x 0.7 -y 0 -i /PATH/CSV/IMAGES/TO/EXTRACT.csv -t /PATH/TISSUE/MASKS/TO/USE/ -o /FOLDER/WHERE/TO/STORE/THE/PATCHES/
    ```
-_For more examples, please see train.sh and test.sh
 
 <!-- LICENSE -->
 ## License
