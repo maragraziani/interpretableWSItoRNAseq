@@ -43,12 +43,11 @@
   </a>
 
 We show that interpretable modeling with attention-based deep learning can be used as a means to uncover highly non-trivial patterns which are otherwise imperceptible to the human eye. In this application to colorectal cancer histology, interpretability reveals connections between the microscopic appearance of cancer tissue and its gene expression profiling. We estimate the expression values of a well-known subset of genes that is indicative of cancer molecular subtype, survival, and treatment response in colorectal cancer. Our approach successfully identifies meaningful information from the image slides, highlighting hotspots of high gene expression.
- </p>
  <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq"><strong>Explore the docs »</strong></a>
+ </p>
  <br />
  <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq">View Demo</a>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -57,20 +56,12 @@ We show that interpretable modeling with attention-based deep learning can be us
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+    <a href="#getting-started">Getting Started</a>
+    <li><a href="#prerequisites">Prerequisites and Installation</a></li>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -88,39 +79,26 @@ Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Prerequisites and Installation
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+The list of libraries and packages required to run the code can be found in prerequisites.txt
+Note that to train the models, you will need at least one GPU supporting PyTorch 1.12.1
 
-### Installation
+To install the repo in your virtual environment, run the following:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/maragraziani/interpretable-WSItoRNAseq.git
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   python3 -m pip install -r prerequisites.txt
    ```
-
 
 
 <!-- USAGE EXAMPLES -->
