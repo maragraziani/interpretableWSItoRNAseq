@@ -35,24 +35,18 @@
  
   <h3 align="center">Attention-based Interpretable Regression: an application to Gene Expression in Colorectal Histology</h3>
 
-
+<p align="center">
    Presented at the iMIMIC Workshop at MICCAI 2022
+ 
  <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq">
     <img src="images/logo.png" alt="Logo" width="900">
   </a>
-  <p align="center">
-We show that interpretable modeling with attention-based deep learning can be used as a means to uncover highly non-trivial patterns which are otherwise imperceptible to the human eye. In this application to colorectal cancer histology, interpretability reveals connections between the microscopic appearance of cancer tissue and its gene expression profiling. We estimate the expression values of a well-known subset of genes that is indicative of cancer molecular subtype, survival, and treatment response in colorectal cancer. Our approach successfully identifies meaningful information from the image slides, highlighting hotspots of high gene expression.
 
-    <br />
-    <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq">View Demo</a>
-    ·
-    <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq/issues">Request Feature</a>
-  </p>
+We show that interpretable modeling with attention-based deep learning can be used as a means to uncover highly non-trivial patterns which are otherwise imperceptible to the human eye. In this application to colorectal cancer histology, interpretability reveals connections between the microscopic appearance of cancer tissue and its gene expression profiling. We estimate the expression values of a well-known subset of genes that is indicative of cancer molecular subtype, survival, and treatment response in colorectal cancer. Our approach successfully identifies meaningful information from the image slides, highlighting hotspots of high gene expression.
+ </p>
+ <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq"><strong>Explore the docs »</strong></a>
+ <br />
+ <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq">View Demo</a>
 </p>
 
 
