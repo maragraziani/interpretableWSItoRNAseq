@@ -98,12 +98,18 @@ To install the repo in your virtual environment, run the following:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can run the command below to train the model. The description of the options are below.
+The code is based on the model in [Unleashing the potential of digital pathology data by training computer-aided diagnosis models without human annotations](https://www.nature.com/articles/s41746-022-00635-4). For the full set of functionalities that this model offers, please see the main [repo](https://github.com/ilmaro8/Multiple_Instance_Learning_instance_based)
+
+To run our version of the attention-based gene expression regression, you can run the command below with our extended version of the [original source code](https://github.com/ilmaro8/Multiple_Instance_Learning_instance_based). The description of the configurable options is given below.
 
 ```sh
      python train.py -c [MODEL_TYPE] -b [BATCH_SIZE] -p att -g [GENE_NAME] -e [N_EPOCHS] -t geneExp  -f True -i [PATH_TO_INPUT_FILE_LIST] -o [SAVE_FOLDER] -w [PATH_TO_INPUT_IMAGES]
    ```
-   
+Note that:
+<li> MODEL_TYPE is resnet18 in our experiments
+ <li> BATCH_SIZE is set to 64
+  <li> N_EPOCHS is set to 100
+ 
 _For more examples, please see train.sh and test.sh
 
 <!-- LICENSE -->
