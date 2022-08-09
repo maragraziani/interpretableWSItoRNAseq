@@ -98,9 +98,13 @@ To install the repo in your virtual environment, run the following:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+You can run the command below to train the model. The description of the options are below.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+```sh
+     python train.py -c [MODEL_TYPE] -b [BATCH_SIZE] -p att -g [GENE_NAME] -e [N_EPOCHS] -t geneExp  -f True -i [PATH_TO_INPUT_FILE_LIST] -o [SAVE_FOLDER] -w [PATH_TO_INPUT_IMAGES]
+   ```
+   
+_For more examples, please see train.sh and test.sh
 
 <!-- LICENSE -->
 ## License
