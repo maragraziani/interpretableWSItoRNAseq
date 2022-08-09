@@ -105,11 +105,15 @@ To run our version of the attention-based gene expression regression, you can ru
 ```sh
      python train.py -c [MODEL_TYPE] -b [BATCH_SIZE] -p att -g [GENE_NAME] -e [N_EPOCHS] -t geneExp  -f True -i [PATH_TO_INPUT_FILE_LIST] -o [SAVE_FOLDER] -w [PATH_TO_INPUT_IMAGES]
    ```
-Note that:
-<li> MODEL_TYPE is resnet18 in our experiments
+Note that in our experiments:
+<li> MODEL_TYPE is resnet18 
  <li> BATCH_SIZE is set to 64
   <li> N_EPOCHS is set to 100
- 
+  
+   To preprocess the input Whole Slide Images, please see the [MultiScale_Tools library](https://github.com/sara-nl/multi-scale-tools). For instance, you can run the following from the preprocessing library of the toolbox
+   ```sh
+   python Patch_Extractor_Dense_Grid.py -m 10 -w 1.25 -p 10 -r True -s 224 -x 0.7 -y 0 -i /PATH/CSV/IMAGES/TO/EXTRACT.csv -t /PATH/TISSUE/MASKS/TO/USE/ -o /FOLDER/WHERE/TO/STORE/THE/PATCHES/
+   ```
 _For more examples, please see train.sh and test.sh
 
 <!-- LICENSE -->
