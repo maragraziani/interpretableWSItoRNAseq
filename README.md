@@ -54,9 +54,6 @@ We show that interpretable modeling with attention-based deep learning can be us
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
    <li><a href="#prerequisites">Prerequisites and Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
@@ -105,53 +102,23 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/maragraziani/interpretable-WSItoRNAseq/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
+Mara Graziani - [@mormontre](https://twitter.com/mormontre) - mgr@zurich.ibm.com // mara.graziani@hevs.ch
 Project Link: [https://github.com/maragraziani/interpretable-WSItoRNAseq](https://github.com/maragraziani/interpretable-WSItoRNAseq)
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
-
+* [Sinergia SNSF project on Trans-omic approach to colorectal cancer: an integrative computational and clinical perspective](#)
+* [Horizon EU 2020 AI4Media](https://www.ai4media.eu)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
