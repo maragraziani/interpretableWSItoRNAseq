@@ -36,12 +36,13 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Attention-based Interpretable Regression of Gene Expression in Histology</h3>
+  <h3 align="center">Attention-based Interpretable Regression: an application to Gene Expression in Colorectal Histology</h3>
 
   <p align="center">
    Presented at the iMIMIC Workshop at MICCAI 2022
 
-We show that interpretability can reveal connections between the microscopic appear- ance of cancer tissue and its gene expression profiling. While exhaustive profiling of all genes from the histology images is still challenging, we estimate the expression values of a well-known subset of genes that is indicative of cancer molecular subtype, survival, and treatment response in colorectal cancer. Our approach successfully identifies meaningful information from the image slides, highlighting hotspots of high gene expression.
+We show that interpretable modeling with attention-based deep learning can be used as a means to uncover highly non-trivial patterns which are otherwise imperceptible to the human eye. In this application to colorectal cancer histology, interpretability reveals connections between the microscopic appearance of cancer tissue and its gene expression profiling. We estimate the expression values of a well-known subset of genes that is indicative of cancer molecular subtype, survival, and treatment response in colorectal cancer. Our approach successfully identifies meaningful information from the image slides, highlighting hotspots of high gene expression.
+
     <br />
     <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq"><strong>Explore the docs »</strong></a>
     <br />
