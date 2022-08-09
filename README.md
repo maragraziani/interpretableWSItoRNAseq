@@ -38,15 +38,15 @@
 <p align="center">
    Presented at the iMIMIC Workshop at MICCAI 2022
  
- <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq">
+ <a href="https://github.com/maragraziani/interpretableWSItoRNAseq">
     <img src="images/logo.png" alt="Logo" width="900">
   </a>
 
 We show that interpretable modeling with attention-based deep learning can be used as a means to uncover highly non-trivial patterns which are otherwise imperceptible to the human eye. In this application to colorectal cancer histology, interpretability reveals connections between the microscopic appearance of cancer tissue and its gene expression profiling. We estimate the expression values of a well-known subset of genes that is indicative of cancer molecular subtype, survival, and treatment response in colorectal cancer. Our approach successfully identifies meaningful information from the image slides, highlighting hotspots of high gene expression.
- <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq"><strong>Explore the docs »</strong></a>
+ <a href="https://github.com/maragraziani/interpretableWSItoRNAseq"><strong>Explore the docs »</strong></a>
  </p>
  <br />
- <a href="https://github.com/maragraziani/interpretable-WSItoRNAseq">View Demo</a>
+ <a href="https://github.com/maragraziani/interpretableWSItoRNAseq">View Demo</a>
 </p>
 
 
@@ -82,7 +82,7 @@ To install the repo in your virtual environment, run the following:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/maragraziani/interpretable-WSItoRNAseq.git
+   git clone https://github.com/maragraziani/interpretableWSItoRNAseq.git
    ```
 2. Install NPM packages
    ```sh
@@ -121,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Mara Graziani - [@mormontre](https://twitter.com/mormontre) - mgr@zurich.ibm.com // mara.graziani@hevs.ch
 
 
-Project Link: [https://github.com/maragraziani/interpretable-WSItoRNAseq](https://github.com/maragraziani/interpretable-WSItoRNAseq)
+Project Link: [https://github.com/maragraziani/interpretableWSItoRNAseq](https://github.com/maragraziani/interpretableWSItoRNAseq)
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -133,15 +133,15 @@ Project Link: [https://github.com/maragraziani/interpretable-WSItoRNAseq](https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/maragraziani/interpretable-WSItoRNAseq.svg?style=for-the-badge
-[contributors-url]: https://github.com/maragraziani/interpretable-WSItoRNAseq/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/maragraziani/interpretable-WSItoRNAseq.svg?style=for-the-badge
-[forks-url]: https://github.com/maragraziani/interpretable-WSItoRNAseq/network/members
-[stars-shield]: https://img.shields.io/github/stars/maragraziani/interpretable-WSItoRNAseq.svg?style=for-the-badge
-[stars-url]: https://github.com/maragraziani/interpretable-WSItoRNAseq/stargazers
-[issues-shield]: https://img.shields.io/github/issues/maragraziani/interpretable-WSItoRNAseq.svg?style=for-the-badge
-[issues-url]: https://github.com/maragraziani/interpretable-WSItoRNAseq/issues
-[license-shield]: https://img.shields.io/github/license/maragraziani/interpretable-WSItoRNAseq.svg?style=for-the-badge
-[license-url]: https://github.com/maragraziani/interpretable-WSItoRNAseq/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/maragraziani/interpretableWSItoRNAseq.svg?style=for-the-badge
+[contributors-url]: https://github.com/maragraziani/interpretableWSItoRNAseq/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/maragraziani/interpretableWSItoRNAseq.svg?style=for-the-badge
+[forks-url]: https://github.com/maragraziani/interpretableWSItoRNAseq/network/members
+[stars-shield]: https://img.shields.io/github/stars/maragraziani/interpretableWSItoRNAseq.svg?style=for-the-badge
+[stars-url]: https://github.com/maragraziani/interpretableWSItoRNAseq/stargazers
+[issues-shield]: https://img.shields.io/github/issues/maragraziani/interpretableWSItoRNAseq.svg?style=for-the-badge
+[issues-url]: https://github.com/maragraziani/interpretableWSItoRNAseq/issues
+[license-shield]: https://img.shields.io/github/license/maragraziani/interpretableWSItoRNAseq.svg?style=for-the-badge
+[license-url]: https://github.com/maragraziani/interpretableWSItoRNAseq/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mara-graziani-878980105/
