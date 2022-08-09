@@ -59,9 +59,10 @@ We show that interpretable modeling with attention-based deep learning can be us
     </li>
     <li>
     <a href="#getting-started">Getting Started</a>
-    <li><a href="#prerequisites">Prerequisites and Installation</a></li>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+   <ul> 
+   <li><a href="#prerequisites">Prerequisites and Installation</a></li>
+
+    <li><a href="#usage">Usage</a></li></ul>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
